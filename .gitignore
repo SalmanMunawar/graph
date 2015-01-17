@@ -1,0 +1,10 @@
+# Created by https://www.gitignore.io
+
+## Directory-based project format:
+.idea/
+Mockup
+
+### Bower ###
+bower_components
+core
+prepros.cfg
